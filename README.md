@@ -1,6 +1,5 @@
 # Chipathon 2026  
-## RTL-to-GDSII Configurable Systolic Matrix Accelerator IP
-
+## " RTL-to-GDSII Design of a Configurable Matrix Accelerator IP on GF180MCU "
 ---
 
 ## Overview
