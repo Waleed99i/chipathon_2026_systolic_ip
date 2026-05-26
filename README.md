@@ -65,6 +65,8 @@ We plan to integrate a lightweight and an open-source RISC-V Core with our IP if
 | Muhammad Waleed Akram    | Waleed99i    | waleedakram059@gmail.com   |
 | Abdul Muiz               | abdmz162    | abdmz.uetian23@gmail.com   |
 | Rumali Siddiqua          | Rumali-Siddiqua    | rumalisiddiqua@gmail.com   |
+| Nur Cahyo Ihsan Prastyawan         | cprastyawan   |  cahyoprastyawan@gmail.com  |
+
 
 ---
 
