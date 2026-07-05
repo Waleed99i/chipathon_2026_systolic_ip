@@ -41,6 +41,13 @@ The detailed design constraints, including architecture parameters, memory struc
 [Design Constraints](Project%20Proposal/design_constraints.md)
 
 ---
+## Schematic Review
+[Slides Link](https://docs.google.com/presentation/d/1XbPeDPZbSCVIkTJ6YJzha1Qlfp463J90a_zdM6emGkA/edit?usp=sharing)
+
+[Presentation Video Link](https://youtu.be/ZGd18GQEK7I?si=cJApcDfwtI_DK_bS)
+
+---
+
 
 ## Project Roadmap
 
