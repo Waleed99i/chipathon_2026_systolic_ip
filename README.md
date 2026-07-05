@@ -64,6 +64,12 @@ We plan to integrate a lightweight and an open-source RISC-V Core with our IP if
 
 ---
 
+## Progress Tracker
+
+[Link](https://docs.google.com/spreadsheets/d/1-T_ZC2E8IlozA7BDgOPqUjp5dZac3WXzmJ67Tr54c2c/edit?usp=sharing)
+
+---
+
 ## Team
 
 
